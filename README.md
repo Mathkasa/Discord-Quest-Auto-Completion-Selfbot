@@ -143,4 +143,4 @@ Quest "Alloyed Collective Gupdoption" completed!
 * [Complete Recent Discord Quest](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb/4912415839790240d49c1d2553e940f0c65f95d5)
 * [Equicord's Questify plugin](https://equicord.org/plugins/Questify)
 * [discord.js](https://github.com/discordjs/discord.js)
-* [The idea of using GitHub Actions as a server to run the selfbot is from manishbhaiii](https://github.com/Mathkasa/Discord-Quest-Auto-Completion-Selfbot)
+* [The idea of using GitHub Actions as a server to run the selfbot is from MATHKASA](https://github.com/Mathkasa/Discord-Quest-Auto-Completion-Selfbot)
