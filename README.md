@@ -68,7 +68,7 @@ npm run start
 > **Running this on GitHub Actions is prohibited by the [GitHub Actions Acceptable Use Policy](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies#4-spam-and-inauthentic-activity-on-github) and can lead to immediate account suspension.**
 
 ### Fork This Repository
-<img width="446" height="132" alt="1" src="https://github.com/user-attachments/assets/a47e639c-6cef-474e-aa1e-01c5cdfb00ab" />
+<img width="446" height="132" alt="1" src="https://cdn.discordapp.com/attachments/1496280130555875480/1496836416439849091/IMG_20260423_133257.png?ex=69eb550b&is=69ea038b&hm=cb6669d5382ecaa6750139fde3a105059fd18aa6a27db6f5e39969d60168b39f&" />
 <img width="771" height="608" alt="2" src="https://github.com/user-attachments/assets/1599f2be-d556-4d83-a5b5-afe299eeee4f" />
 
 ### Configure your settings (Open your forked repository)
